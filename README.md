@@ -10,4 +10,5 @@
   - Prettier
   - npm Scripts
   - Eslint
-- Parcel
+- Parcel Bundler
+- react, react-dom
