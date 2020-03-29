@@ -11,4 +11,5 @@
   - npm Scripts
   - Eslint
 - Parcel Bundler
-- react, react-dom
+- JSX
+-
