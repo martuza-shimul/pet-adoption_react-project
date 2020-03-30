@@ -29,4 +29,5 @@
 - Asynchronous API requests
 - One-way data flow
 - #### Reach Router
+- Class components
 -
