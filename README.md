@@ -20,5 +20,7 @@
     - never use a hook inside any statement like conditions or loop
   - Configuring ESLint for hooks
     - npm i -D eslint-plugin-react-hooks
+  - useState,
+  - useEffect and its lifecycle
   - Custom Hooks
 - API
