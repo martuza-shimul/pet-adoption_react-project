@@ -5,10 +5,12 @@ import SearchParams from "./SearchParams";
 
 const App = () => {
   return (
-    <div>
-      <h1 id="logo">Adopt Me!</h1>
-      <SearchParams />
-    </div>
+    <React.StrictMode>
+      <div>
+        <h1 id="logo">Adopt Me!</h1>
+        <SearchParams />
+      </div>
+    </React.StrictMode>
   );
 };
 render(<App />, document.getElementById("root"));

@@ -24,3 +24,7 @@
   - useEffect and its lifecycle
   - Custom Hooks
 - API
+- Environment variables and Strict Mode
+- React Browser dev tools
+- Asynchronous API requests
+- One-way data flow
