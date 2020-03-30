@@ -20,4 +20,5 @@
     - never use a hook inside any statement like conditions or loop
   - Configuring ESLint for hooks
     - npm i -D eslint-plugin-react-hooks
+  - Custom Hooks
 - API
