@@ -6,12 +6,17 @@
   - Passing in Component Props
   - Destructuring Props
 - Tools
+
   - npm & Generating a package.json file
   - Prettier
     - Prettier config
   - npm Scripts
   - Eslint
     - eslint config for react
+  - Babel
+    - configure Bable for Parcel
+      - npm install -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal-class-properties @babel/preset-react
+
 - Parcel Bundler
 - JSX
 - Hooks
