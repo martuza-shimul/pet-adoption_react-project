@@ -30,6 +30,8 @@
     - npm i -D eslint-plugin-react-hooks
   - useState,
   - useEffect and its lifecycle
+  - useContext
+  - useRef
   - Custom Hooks
 
 - API
@@ -54,3 +56,5 @@
   - Context with Hooks
   - Context with Classes
   - Persisting State with Context Hooks
+- Portals
+  - Design Modal dialog with Portals
