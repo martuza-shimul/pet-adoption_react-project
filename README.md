@@ -43,4 +43,14 @@
   - Redirect
   - Navigate
 - Class components
+  - Life-cycle methods
+    - componentDidMount()
+    - componentDidUpdate()
+    - componentDidCatch()
+    - static getDerivedStateFromProps()
+    - static getDerivedStateFromError()
 - Error Boundaries
+- Context
+  - Context with Hooks
+  - Context with Classes
+  - Persisting State with Context Hooks
