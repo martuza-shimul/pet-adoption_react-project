@@ -61,6 +61,13 @@
 
 #### Emotion
 
-  - Template Literals & Hooks
-  - Design Systems and Compund Seletors
-  - Animations
+- Template Literals & Hooks
+- Design Systems and Compund Seletors
+- Animations
+
+#### Code Splitting
+
+- lazy
+- Suspense
+- code splitting for routes
+- code splitting libraries & child components
