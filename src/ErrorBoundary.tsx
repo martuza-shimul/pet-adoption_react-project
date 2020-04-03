@@ -1,6 +1,6 @@
 // mostly code from reactjs.org docs
 
-import React, { Component } from "react";
+import React, { Component, ErrorInfo } from "react";
 import { Link, Redirect } from "@reach/router";
 
 class ErrorBoundary extends Component {
@@ -9,7 +9,7 @@ class ErrorBoundary extends Component {
   static getDerivedStateFromError() {
     return { hasError: true };
   }
-  componentDidCatch(error, info) {
+  componentDidCatch(error: Error, info: ErrorInfo) {
     // eslint-disable-next-line no-console
     console.error("ErrorBoundary cought an erro", error, info);
   }

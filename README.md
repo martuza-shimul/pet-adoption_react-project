@@ -71,3 +71,8 @@
 - Suspense
 - code splitting for routes
 - code splitting libraries & child components
+
+#### TypeScript
+
+- Props & State Interfaces
+- Heterogenous Arrays & Hooks

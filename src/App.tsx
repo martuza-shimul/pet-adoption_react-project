@@ -1,7 +1,6 @@
 import React, { useState, lazy, Suspense } from "react";
 import { render } from "react-dom";
 import { Router, Link } from "@reach/router";
-// import SearchParams from "./SearchParams";
 import ThemeContext from "./ThemeContext";
 
 const Details = lazy(() => import("./Details"));
