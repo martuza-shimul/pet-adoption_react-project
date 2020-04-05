@@ -71,3 +71,11 @@
 - Suspense
 - code splitting for routes
 - code splitting libraries & child components
+
+#### Redux
+
+- Store
+- Reducer
+- Action
+- connect
+- Dev Tools
