@@ -71,3 +71,23 @@
 - Suspense
 - code splitting for routes
 - code splitting libraries & child components
+
+#### Redux
+
+- Store
+- Reducer
+- Action
+- connect
+- Dev Tools
+
+#### Server side Rendering
+
+- node
+- express
+- Rendering to Strings
+- Rendering to Node Stream
+
+#### TypeScript
+
+- Props & State Interfaces
+- Heterogenous Arrays & Hooks
