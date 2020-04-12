@@ -10,10 +10,7 @@ const SearchParams = lazy(() => import("./SearchParams"));
 const App = () => {
   const themeHook = useState("darkblue");
   return (
-    <ThemeContext.Provider
-      value={themeHook}
-      basename="/pet-adoption_react-project/"
-    >
+    <ThemeContext.Provider value={themeHook}>
       <div>
         <header>
           <Link to="/"> Adopt Me!</Link>

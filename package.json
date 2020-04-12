@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "http://martuza-shimul.github.io/pet-adoption_react-project",
   "scripts": {
-    "clear-buuild-cache": "rm -rf .cache/dist/",
+    "clear-build-cache": "rm -rf .cache/dist/",
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
     "deploy": "gh-pages -d dist",
